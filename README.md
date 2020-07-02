@@ -29,6 +29,9 @@ The user should be able to:
 ## Images/Content
 ---
 
+### Workout-Tracker App
+![Workout-Tracker gif](./public/assets/Workout-TrackerHW.gif)
+
 ---
 
 ## Authors
