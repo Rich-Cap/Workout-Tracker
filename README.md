@@ -1,9 +1,5 @@
 # Workout-Tracker
 
-## Purpose
-
-Create a workout tracker using Mongo database with a Mongoose schema and handle routes with Express.
-
 ## Design
 
 ### User Story
@@ -14,7 +10,7 @@ Create a workout tracker using Mongo database with a Mongoose schema and handle 
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Functionality
+## Acceptance Criteria
 
 When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
 
@@ -30,13 +26,6 @@ The user should be able to:
 ---
 
 ### Workout-Tracker App
-![Workout-Tracker gif](./public/assets/Workout-TrackerHW.gif)
+![Fitness Tracker](.__)
 
 ---
-
-## Authors
-
-```
-Richard Capuy
-
-```
